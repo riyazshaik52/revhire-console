@@ -144,3 +144,37 @@ src/main/java/com.revhire
 ├── service
 ├── util
 └── Main.java
+
+
+---
+
+# 🚀 Future Enhancements
+
+- Web-based UI using Spring Boot
+- REST API Integration
+- Email Notifications
+- Resume File Upload
+- Admin Dashboard
+- JWT Authentication
+- Microservices Migration
+
+---
+
+# 📈 Real-World Relevance
+
+This system simulates:
+
+- HR Management Systems
+- Recruitment Platforms
+- Applicant Tracking Systems (ATS)
+
+The architecture is easily scalable to Spring Boot or Microservices.
+
+---
+
+# 👨‍💻 Author
+
+Developed by: **Shaik Riyaz**
+
+---
+
